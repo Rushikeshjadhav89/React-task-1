@@ -1,0 +1,329 @@
+{
+    "status": true,
+    "status_code": 200,
+    "message": "Content Found",
+    "data": [
+        {
+            "card_name": "Continue Watching",
+            "card_type": 8,
+            "aspect_ratio": "16/9",
+            "content_list": [
+                {
+                    "image_url": "https://i.pinimg.com/originals/3f/ed/e7/3fede7a0d6241e22bfed64177a08b4c8.jpg",
+                    "name": "Loki",
+                    "content_id": "1001",
+                    "aspect_ratio": "16x9",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false,
+                    "is_resume": true,
+                    "duration": "3600",
+                    "watched_duration": "1000"
+                },
+                {
+                    "image_url": "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2019/4/27/chris-playing-thor.jpg.transform/schema-16x9/image.jpg",
+                    "name": "Thor",
+                    "content_id": "1001",
+                    "aspect_ratio": "16x9",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false,
+                    "is_resume": true,
+                    "duration": "3600",
+                    "watched_duration": "1000"
+                },
+                {
+                    "image_url": "https://c4.wallpaperflare.com/wallpaper/181/698/418/iron-man-widescreen-desktop-wallpaper-preview.jpg",
+                    "name": "Iron man",
+                    "content_id": "1001",
+                    "aspect_ratio": "16x9",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false,
+                    "is_resume": true,
+                    "duration": "3600",
+                    "watched_duration": "1000"
+                },
+                {
+                    "image_url": "https://wallpapercave.com/wp/wp6075938.jpg",
+                    "name": "Family man",
+                    "content_id": "1001",
+                    "aspect_ratio": "16x9",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false,
+                    "is_resume": true,
+                    "duration": "3600",
+                    "watched_duration": "1000"
+                }
+            ]
+        },
+        {
+            "card_name": "Movies",
+            "card_type": 2,
+            "aspect_ratio": "16/7",
+            "content_list": [
+                {
+                    "image_url": "https://cdn.wallpapersafari.com/82/45/9SEbP2.jpg",
+                    "name": "Star Trek Into Darkness",
+                    "content_id": "1001",
+                    "aspect_ratio": "16x7",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://assets.vogue.com/photos/5891f3a17caf41c472cb5888/master/w_1600%2Cc_limit/01-black-mass-fall-movies.jpg",
+                    "name": "Fall Movie",
+                    "content_id": "1002",
+                    "aspect_ratio": "16x7",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://static.wixstatic.com/media/2d0812_c1414bed1b0149cfb2fcd03365f4cbc2~mv2.jpg/v1/fill/w_1600,h_700,fp_0.50_0.50,q_90,enc_auto/2d0812_c1414bed1b0149cfb2fcd03365f4cbc2~mv2.jpg",
+                    "name": "Aquaman",
+                    "content_id": "1001",
+                    "aspect_ratio": "16x7",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                }
+            ]
+        },
+        {
+            "card_name": "Series",
+            "card_type": 3,
+            "aspect_ratio": "16/5",
+            "content_list": [
+                {
+                    "image_url": "https://www.thecompleteactor.com/uploads/photogallery/album/aarattu%20still-EtLFbOIBFJK0uKW.jpg",
+                    "name": "Mohanlal",
+                    "content_id": "1001",
+                    "aspect_ratio": "16x5",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://4.bp.blogspot.com/-rnsc-wb0Azk/WkIDt0Vso-I/AAAAAAAAA7M/3nWaaxW7MgY-ls9s6kZ6UgGt4ZHvCwuGACLcBGAs/s1600/tlj2.jpg",
+                    "name": "Star War",
+                    "content_id": "1002",
+                    "aspect_ratio": "16x7",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://incrediblefilm.com/wp-content/uploads/cached_images/1600x500/2015/08/smoorverliefd_47042222_st_2_s-low.jpg",
+                    "name": "Madly in Love the Movie",
+                    "content_id": "1001",
+                    "aspect_ratio": "16x7",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                }
+            ]
+        },
+        {
+            "card_name": "Bollywood Specials",
+            "card_type": 4,
+            "aspect_ratio": "4/5",
+            "content_list": [
+                {
+                    "image_url": "https://image.songsuno.com/movie-images/original/movie/krrish-3/krrish-3-poster.jpg",
+                    "name": "Krissh 3",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x5",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://i.pinimg.com/550x/ec/88/97/ec8897c3194b3bfdc9718fe6af523ff7.jpg",
+                    "name": "Tubelight",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x5",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://i.pinimg.com/736x/69/7a/7e/697a7ed716d212124706412542f38f0b.jpg",
+                    "name": "Radhe",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x5",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://static.toiimg.com/thumb/msid-61237061,width-219,height-317,imgsize-55384/61237061.jpg",
+                    "name": "3 Iditos",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x5",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                }
+            ]
+        },
+        {
+            "card_name": "4x3 Content",
+            "card_type": 5,
+            "aspect_ratio": "4/3",
+            "content_list": [
+                {
+                    "image_url": "https://static.toiimg.com/thumb/msid-55541458,width-400,resizemode-4/55541458.jpg",
+                    "name": "Dangal",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x3",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://static.toiimg.com/thumb/msid-67975965,width-400,resizemode-4/67975965.jpg",
+                    "name": "Jersey",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x3",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://static.toiimg.com/thumb/msid-89253000,width-400,resizemode-4/89253000.jpg",
+                    "name": "Bachchan Pandey",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x3",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://static.toiimg.com/thumb/msid-88524570,width-400,resizemode-4/88524570.jpg",
+                    "name": "Samrat Prithviraj",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x3",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/400x300/sbfnsbdfnsbndbfdfgdfg_202107.jpg",
+                    "name": "Bhoot Police",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x3",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                }
+            ]
+        },
+        {
+            "card_name": "4x4 Content",
+            "card_type": 6,
+            "aspect_ratio": "4/4",
+            "content_list": [
+                {
+                    "image_url": "https://a10.gaanacdn.com/gn_img/albums/0wrb4qNKLg/wrb4L0ybLg/size_l.jpg",
+                    "name": "Dhoom",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x4",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://s3.castbox.fm/39/ca/1b/b5b4ab1612d4654294de202d9cdc23f251_scaled_v1_400.jpg",
+                    "name": "Dhoom 2",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x4",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://ajnews.andhrajyothy.com/appimg/galleries/1822041410575217/04142022110559n54.jpg",
+                    "name": "KGF Chapter 2",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x4",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://pbs.twimg.com/profile_images/917281588035035136/ZAgOKSJG_400x400.jpg",
+                    "name": "Bahubali 2",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x4",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://ajnews.andhrajyothy.com/appimg/galleries/1822061311450029/06132022114550n22.jpg",
+                    "name": "Vikram",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x4",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://pbs.twimg.com/profile_images/1217411387837673472/4oXx9DUH_400x400.jpg",
+                    "name": "Master",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x4",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                }
+            ]
+        },
+        {
+            "card_name": "Circle Content",
+            "card_type": 7,
+            "aspect_ratio": "4/4",
+            "content_list": [
+                {
+                    "image_url": "https://i.pinimg.com/564x/e8/66/00/e86600a5bf0bb837345a605678aa1937.jpg",
+                    "name": "Kabir Singh",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x4",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://i.pinimg.com/474x/de/57/44/de5744b3f8df5e722e15e292cb707518.jpg",
+                    "name": "Sharukh Khan",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x4",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://i.pinimg.com/736x/b5/22/46/b522468c2f9060dd9315401c67178fd2--the-box-the-ojays.jpg",
+                    "name": "Salman Khan",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x4",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                },
+                {
+                    "image_url": "https://i.pinimg.com/474x/e8/a5/82/e8a5829b8d8b63dcbab96935caf8f65b.jpg",
+                    "name": "Ajay Devgan",
+                    "content_id": "1001",
+                    "aspect_ratio": "4x4",
+                    "is_avod": true,
+                    "is_tvod": false,
+                    "is_svod": false
+                }
+            ]
+        }
+    ]
+}
